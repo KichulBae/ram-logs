@@ -1,9 +1,9 @@
---- 2026-01-13_23-00-03 ---
-root 1.04478GB
+--- 2026-01-14_00-00-03 ---
+root 1.17148GB
 gdm 0.68964GB
-pcp 0.0720482GB
-polkitd 0.03722GB
-kbae2 0.0353088GB
+pcp 0.0727158GB
+polkitd 0.037262GB
+kbae2 0.0349274GB
 colord 0.014801GB
 dbus 0.00722504GB
 daemon 0.0067749GB
