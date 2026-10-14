@@ -1,13 +1,13 @@
---- 2026-10-14_14-00-02 ---
-jhwang24 9.65399GB
+--- 2026-10-14_15-00-01 ---
+jhwang24 10.8402GB
 libstor+ 7.62939e-06GB
 dnsmasq 4.57764e-05GB
 colord 3.8147e-06GB
-tgu4 2.19651GB
-kbae2 0.745106GB
-root 0.671597GB
-pcp 0.200272GB
+tgu4 2.19866GB
+root 0.819805GB
+kbae2 0.745556GB
 gdm 0.128029GB
+pcp 0.0579643GB
 iansari2 0.0227661GB
 polkitd 0.0177002GB
 sfang6 0.0106239GB
